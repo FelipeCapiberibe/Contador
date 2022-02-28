@@ -24,7 +24,7 @@
         <footer>
             <p>&copy; FelipeCapiTwitch</p>
         </footer>
-        <script src="script.js"></script>
+        
         
 </body>
 </html>
